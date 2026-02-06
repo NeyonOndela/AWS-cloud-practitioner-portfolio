@@ -42,6 +42,10 @@ After the instance was up and running, I reviewed the available monitoring featu
 <img width ="1000" height="500" alt="instance13" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance15.jpg" />
 
 <img width ="1000" height="500" alt="instance16" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance16.jpg" />
+<img width ="1000" height="500" alt="instance16" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance17.jpg" />
+<img width ="1000" height="500" alt="instance16" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance18.jpg" />
+
+
 
 ----
 ## Test Termination Protection
