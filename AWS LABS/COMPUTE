@@ -1,0 +1,9 @@
+#PRACTICAL,HANDS-ON LABORATORY SESSION FOCUSED ON WORKING AWS EC2 SERVICES
+##OVERVIEW
+This lab provided practical experience with Amazon Ec2, covering instance deployment, configuration,security,monitoring,and scaling. it also included deploying a web server and exploring automation and lifecycle management in real-world clou environment.
+
+
+
+##Lab Architecture
+the lab included deploying a web server on EC2 with configured security measures and scalable architecture
+
