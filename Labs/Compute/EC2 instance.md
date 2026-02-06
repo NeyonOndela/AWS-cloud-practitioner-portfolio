@@ -16,7 +16,8 @@ This lab provided practical experience with Amazon EC2, covering instance deploy
 
 ---
 
-The instance was launched suceessfully
+## The instance was launched suceessfully
+
 <img width="1000" height="500" alt ="instance11" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance11.jpg" />
 
 
