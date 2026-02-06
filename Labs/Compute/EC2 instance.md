@@ -43,6 +43,13 @@ After the instance was up and running, I reviewed the available monitoring featu
 
 <img width ="1000" height="500" alt="instance16" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance16.jpg" />
 
+----
+## Test Termination Protection
+
+I tested termination protection by attempting to delete the instance while the protection was enabled, which prevented the action. After disabling termination protection, I was able to successfully terminate the instance. This exercise demonstrated the role of safeguards in preventing accidental deletion of resources in production environments.
+
+<img width="1000" height="500" alt="instance19" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance19.jpg" />
+
 
 
 
