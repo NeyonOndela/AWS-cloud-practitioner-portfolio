@@ -20,4 +20,11 @@ This lab provided practical experience with Amazon EC2, covering instance deploy
 
 <img width="1000" height="500" alt ="instance11" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance11.jpg" />
 
+---
+2.## Monitoring the instance
+
+After the instance was up and running, I reviewed the available monitoring features. I verified both system and instance health using **Status Checks**, analyzed **CloudWatch metrics** to gain performance insights, and took an instance screenshot to simulate console-level access.
+
+<img width ="1000" height="500" alt="instance13" src= "https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance13.jpg" />
+
 
