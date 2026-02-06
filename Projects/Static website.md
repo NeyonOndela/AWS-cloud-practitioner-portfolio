@@ -47,7 +47,7 @@ FreshlyGround Café
 
 <img width ="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ba6700b3e23e7db567046141aef9f897a3eeb331/Projects/Resources/IMG-20260205-WA0006.jpg " />
 
-<imag width ="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/c042d1836efd075c9a92bc718012d3a32114a7f4/Projects/Resources/IMG-20260205-WA0009.jpg " />
+<img width ="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/c042d1836efd075c9a92bc718012d3a32114a7f4/Projects/Resources/IMG-20260205-WA0009.jpg " />
 
 
   
