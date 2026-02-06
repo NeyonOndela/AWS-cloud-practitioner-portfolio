@@ -28,4 +28,9 @@ After the instance was up and running, I reviewed the available monitoring featu
  <img width="1000" height="500" alt="instance12" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance12.jpg" />
 <img width ="1000" height="500" alt="instance13" src= "https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance13.jpg" />
 
+----
+## The security group was updated to allow the required inbound traffic, and the web server was accessed successfully through a web browser.
+
+<img width="1000" height="500" alt="instance14" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance14.jpg" />
+
 
