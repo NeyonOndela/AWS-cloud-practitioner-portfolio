@@ -2,11 +2,11 @@
 
 Freshly_Ground is a beloved local café, cherished by both coffee aficionados and book lovers—a cozy spot that blends the serenity of nature with the joy of knowledge. However, the café depended on outdated on-premises systems and had minimal digital infrastructure, which made daily operations slow and cumbersome. Their system was prone to shutdowns, limiting their online visibility and reducing customer engagement. Additionally, they lacked a dependable solution for data backup and recovery. In today’s digital-first environment, this made it challenging for Freshly_Ground to grow, scale, and compete with other cafés that already had robust online platforms. As a result of these on-premises limitations, the café frequently experienced downtime, inefficient operations, and data loss.
 
---
+---
 ## Goals of Migration
 ## Migrate IT infrastructure to AWS in order to:
 
--Boost operational efficiency
+- Boost operational efficiency
 
 - Strengthen customer engagement with an updated digital presence
 
@@ -19,7 +19,7 @@ Freshly_Ground is a beloved local café, cherished by both coffee aficionados an
 - Facilitate future business growth and innovation
 
  ## Proposed Solution: Migration to AWS Cloud Infrastructure
-  # 1. Cloud Infrastructure Migration
+  ## 1. Cloud Infrastructure Migration
   Migrate from on-premises systems to a fully cloud-based AWS environment.
 
   ## 2. Online Presence Enhancement 
@@ -31,6 +31,6 @@ Freshly_Ground is a beloved local café, cherished by both coffee aficionados an
   - Increase brand awareness and customer reach
 
   - Establish a base for future e-commerce features
-  --
+  ---
   ## AWS Cloud Architecture
   
