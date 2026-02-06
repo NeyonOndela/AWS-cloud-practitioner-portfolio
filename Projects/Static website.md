@@ -39,7 +39,7 @@ Freshly_Ground is a beloved local café, cherished by both coffee aficionados an
   ---
 
   
-## our Static Amazon S3 Website
+## Our Static Amazon S3 Website
 
 <img width ="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ba6700b3e23e7db567046141aef9f897a3eeb331/Projects/Resources/IMG-20260205-WA0006.jpg " />
 
