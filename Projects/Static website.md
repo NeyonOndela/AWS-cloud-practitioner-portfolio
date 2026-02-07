@@ -80,8 +80,7 @@ FreshlyGround Café
   ---
 
  ## Learning Outcomes
-
-- This project highlights the following skills and concepts:
+This project highlights the following skills and concepts:
 
 - Cloud architecture and solution design
 
