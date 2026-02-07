@@ -52,6 +52,6 @@ FreshlyGround Café
 ---
 ## Successfully uploaded the necessary files for the website.
 
-<img width="1000" height="500" alt="screenshot" src= " "/>
+<img width="1000" height="500" alt="screenshot" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/53c839d4a4fc89e3f86a3590247d249baf8d04f8/Projects/Resources/545632552-8021f948-3795-4492-84a2-2dbbd1505653.jpg "/>
 
   
