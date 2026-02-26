@@ -119,6 +119,27 @@ The successful response confirmed that:
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ac1f55ad22eb4be55633ee2cdb04b9ca8264ee22/Resources/network%20last.jpg" />
 
 
+## Key Learning Outcomes
+
+- Through this lab, I gained practical experience with:
+
+- Designing cloud networking from scratch
+
+- Understanding how routing works inside a VPC
+
+- Configuring layered security using Security Groups and NACLs
+
+- Troubleshooting connectivity issues
+
+- Navigating and using the AWS Management Console effectively
+
+This lab strengthened my understanding of AWS networking fundamentals and improved my ability to design secure, scalable cloud infrastructure environments.
+
+## Conclusion
+
+By the end of this lab, I successfully built a fully functional networking environment inside an AWS VPC and verified external connectivity. This hands on experience enhanced my understanding of how cloud networking components interact to deliver secure and reliable communication within and outside the VPC.
+
+
 
 
 
