@@ -63,6 +63,18 @@ To enable internet access, I created an Internet Gateway and attached it to my V
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/62375806e17ec9ad96516ec8f487d9cf3814deeb/Resources/internet%20geway.jpg" />
 
 
+
+
+## Configuring the Network Access Control List (NACL)
+
+I reviewed the default NACL settings and ensured that both inbound and outbound traffic allowed:
+- ICMP
+- SSH
+- Ephemeral ports for return traffic
+  
+Unlike Security Groups, NACLs are stateless, meaning both inbound and outbound rules must be explicitly defined.
+
+
 ## Configuring the Security Group
 
 I created a Security Group to act as a virtual firewall for my EC2 instance.
@@ -81,18 +93,6 @@ Security Groups are stateful, meaning return traffic is automatically allowed.
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ae55a08b1f8e98edb85d95b90836c82c59bde4b7/Resources/net.jpg" />
 
 
-
-## Configuring the Network Access Control List (NACL)
-
-I reviewed the default NACL settings and ensured that both inbound and outbound traffic allowed:
-- ICMP
-- SSH
-- Ephemeral ports for return traffic
-Unlike Security Groups, NACLs are stateless, meaning both inbound and outbound rules must be explicitly defined.
-
-
-
-
 ## Launching the EC2 Instance
 
 I launched an EC2 instance within the configured subnet and attached the Security Group created earlier.
@@ -103,6 +103,11 @@ I verified:
 
 
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/857401133cf6a7ef56178f6bc35f1b1a4f313ff3/Resources/net%20instance.jpg" />
+
+
+ ## Using ping to test internet connectivity
+
+<img width ="1000" height="500" alt="instance1" src= "" 
 
 
 
