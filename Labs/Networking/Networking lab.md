@@ -90,7 +90,19 @@ I reviewed the default NACL settings and ensured that both inbound and outbound 
 - Ephemeral ports for return traffic
 Unlike Security Groups, NACLs are stateless, meaning both inbound and outbound rules must be explicitly defined.
 
-<img width ="1000" height="500" alt="instance1" src=
+
+
+
+## Launching the EC2 Instance
+
+I launched an EC2 instance within the configured subnet and attached the Security Group created earlier.
+I verified:
+- The instance had a public IP address
+- The subnet was associated with the correct route table
+- The Internet Gateway was attached to the VPC
+
+
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/857401133cf6a7ef56178f6bc35f1b1a4f313ff3/Resources/net%20instance.jpg" />
 
 
 
