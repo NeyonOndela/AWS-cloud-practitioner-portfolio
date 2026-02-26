@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This lab was designed to provide practical experience in configuring a routable network inside a Virtual Private Cloud (VPC) using Amazon Web Services (AWS). The primary goal was to create and configure all the necessary networking components required to allow an EC2 instance to communicate with external networks. The lab was considered complete once successful connectivity outside the VPC was verified using the ping command.The exercise also aimed to improve familiarity with the AWS Management Console and strengthen understanding of cloud networking concepts.
+
 
 
 ## Scenario
