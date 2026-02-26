@@ -64,6 +64,8 @@ SELECT * FROM world.country;
 
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database2.jpg">
 
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/0ee9785398c6e376dbdc97c33a981cac25775d6b/Resources/database3.jpg" />
+
 
 ## Using the WHERE Clause with AND
 
