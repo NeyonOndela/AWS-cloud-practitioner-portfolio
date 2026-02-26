@@ -78,7 +78,19 @@ I configured:
 Security Groups are stateful, meaning return traffic is automatically allowed.
 
 
-<img width ="1000" height="500" alt="instance1" src=""
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ae55a08b1f8e98edb85d95b90836c82c59bde4b7/Resources/net.jpg" />
+
+
+
+## Configuring the Network Access Control List (NACL)
+
+I reviewed the default NACL settings and ensured that both inbound and outbound traffic allowed:
+- ICMP
+- SSH
+- Ephemeral ports for return traffic
+Unlike Security Groups, NACLs are stateless, meaning both inbound and outbound rules must be explicitly defined.
+
+<img width ="1000" height="500" alt="instance1" src=
 
 
 
