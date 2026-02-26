@@ -46,11 +46,18 @@ To make it public, I configured it to automatically assign public IPv4 addresses
 
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/8847cfd0760291c575adc04b780e910210679c23/Resources/networkl.jpg" />
 
+## Configuring the Route Table
+
+I modified the VPC’s route table by adding a new route:
+Destination: 0.0.0.0/0
+Target: Internet Gateway
+I then associated this route table with my public subnet. This ensured that outbound internet traffic would be properly routed.
+
 ## Creating and Attaching an Internet Gateway
 
 To enable internet access, I created an Internet Gateway and attached it to my VPC. Without this step, instances inside the VPC would not be able to communicate with external networks.
 
-<img width ="1000" height="500" alt="instance1" src=""
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/62375806e17ec9ad96516ec8f487d9cf3814deeb/Resources/internet%20geway.jpg" />
 
 
 
