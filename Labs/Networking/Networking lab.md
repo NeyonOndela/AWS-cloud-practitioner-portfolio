@@ -54,7 +54,7 @@ I modified the VPC’s route table by adding a new route:
 Destination: 0.0.0.0/0
 Target: Internet Gateway
 I then associated this route table with my public subnet. This ensured that outbound internet traffic would be properly routed.
-<img width ="1000" height="500" alt="instance1" src=""
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/a2c961a47d231173f12b26ecfbb90c4f0a14b9ed/Resources/netw.jpg" />
 
 ## Creating and Attaching an Internet Gateway
 
