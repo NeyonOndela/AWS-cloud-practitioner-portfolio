@@ -121,7 +121,7 @@ The successful response confirmed that:
 
 ## Key Learning Outcomes
 
-- Through this lab, I gained practical experience with:
+ Through this lab, I gained practical experience with:
 
 - Designing cloud networking from scratch
 
