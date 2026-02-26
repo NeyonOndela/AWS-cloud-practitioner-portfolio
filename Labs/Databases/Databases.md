@@ -67,5 +67,66 @@ SELECT Name, Capital, Region, SurfaceArea, Population
 FROM world.country
 WHERE Population >= 50000000 AND Population <= 100000000;
 
-This helped me understand how multiple conditions can be combined using the  (AND) operator.
+This helped me understand how multiple conditions can be combined using the  *AND* operator.
+
+
+## Using the BETWEEN Operator
+
+To simplify the previous query, I used the BETWEEN operator:
+SELECT Name, Capital, Region, SurfaceArea, Population
+FROM world.country
+WHERE Population BETWEEN 50000000 AND 100000000;
+
+I learned that  *BETWEEN* is inclusive and makes range queries cleaner and easier to read.
+
+
+
+## Using the LIKE Operator and Wildcards
+
+To search for countries in Europe, I used the *LIKE* operator with % wildcard characters:
+
+SELECT SUM(Population)
+FROM world.country
+WHERE Region LIKE "%Europe%";
+
+The % symbol allowed me to match any characters before or after the word "Europe".
+
+
+## Using Column Aliases with AS
+
+To make the output more readable, I added a column alias:
+SELECT SUM(Population) AS "Europe Population Total"
+FROM world.country
+WHERE Region LIKE "%Europe%";
+
+This improved the clarity of the result by renaming the calculated column.
+
+## Using Functions in WHERE (Case Handling)
+
+Although SQL is generally case-insensitive, I practiced using the LOWER() function to ensure consistent comparisons:
+
+SELECT Name, Capital, Region, SurfaceArea, Population
+FROM world.country
+WHERE LOWER(Region) LIKE "%central%";
+
+This taught me how to perform reliable string comparisons regardless of letter case.
+
+## Conclusion
+
+
+Through this lab, I gained practical experience in:
+
+- Filtering data using conditional logic
+
+- Writing clean and readable SQL queries
+
+- Using aggregate functions like SUM()
+
+- Improving result readability with aliases
+
+- Handling case sensitivity using string functions
+
+Overall, this lab improved my confidence in writing SQL queries for real-world database operations. now i understand how to perform conditional searches efficiently and how to manipulate and filter data using different SQL operators and functions.
+
+
 
