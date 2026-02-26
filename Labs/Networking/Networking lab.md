@@ -39,6 +39,12 @@ Brock, startup owner"
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f74b1e42e962114d25e9835e5cf877e69705085d/Resources/customer%20arch.jpg" />
 
 
+
+## Creating the VPC
+
+I began by navigating to the VPC Dashboard and creating a custom VPC with a defined IPv4 CIDR block. This created an isolated virtual network where I could deploy resources securely.The VPC acts as the foundation of all networking resources in AWS.
+
+
 ## Creating a Subnet
 
 Next, I created a public subnet within the VPC. I ensured it was associated with the correct Availability Zone and CIDR range.
