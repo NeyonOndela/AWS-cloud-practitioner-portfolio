@@ -63,6 +63,24 @@ To enable internet access, I created an Internet Gateway and attached it to my V
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/62375806e17ec9ad96516ec8f487d9cf3814deeb/Resources/internet%20geway.jpg" />
 
 
+## Configuring the Security Group
+
+I created a Security Group to act as a virtual firewall for my EC2 instance.
+
+I configured:
+
+- SSH (Port 22) for remote access
+
+- ICMP for ping testing
+
+- Allowed outbound traffic to all destinations
+
+Security Groups are stateful, meaning return traffic is automatically allowed.
+
+
+<img width ="1000" height="500" alt="instance1" src=""
+
+
 
 
 
