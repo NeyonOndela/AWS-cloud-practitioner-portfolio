@@ -6,22 +6,23 @@ In this lab, I was tasked with designing and configuring a fully functional and 
 
 
 ## Objectives
-
 - Create a custom VPC
 
-- Configure an Internet Gateway for internet connectivity
+- Configure a Subnet
 
-- Set up a Route Table with appropriate routing rules
+- Create and attach an Internet Gateway
 
-- Configure a Security Group to allow necessary inbound and outbound traffic
+- Configure a Route Table
 
-- Modify Network Access Control Lists (NACLs)
+- Create and configure a Security Group
 
-- Launch and configure an EC2 instance
+- Configure a Network Access Control List (NACL)
 
-- Successfully ping an external address outside the VPC
+- Launch an EC2 instance inside the VPC
 
-- Gain familiarity with the AWS Management Console
+- Verify external connectivity
+
+
 
 
 
@@ -36,4 +37,16 @@ Brock, startup owner"
 
 
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f74b1e42e962114d25e9835e5cf877e69705085d/Resources/customer%20arch.jpg" />
+
+
+## Creating a Subnet
+
+Next, I created a public subnet within the VPC. I ensured it was associated with the correct Availability Zone and CIDR range.
+To make it public, I configured it to automatically assign public IPv4 addresses to instances launched within it.
+
+<img width ="1000" height="500" alt="instance1" src= 
+
+
+
+
  
