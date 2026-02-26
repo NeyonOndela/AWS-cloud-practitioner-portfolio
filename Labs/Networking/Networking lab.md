@@ -44,7 +44,7 @@ Brock, startup owner"
 Next, I created a public subnet within the VPC. I ensured it was associated with the correct Availability Zone and CIDR range.
 To make it public, I configured it to automatically assign public IPv4 addresses to instances launched within it.
 
-<img width ="1000" height="500" alt="instance1" src= 
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/8847cfd0760291c575adc04b780e910210679c23/Resources/networkl.jpg" />
 
 
 
