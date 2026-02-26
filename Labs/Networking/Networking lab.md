@@ -105,9 +105,18 @@ I verified:
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/857401133cf6a7ef56178f6bc35f1b1a4f313ff3/Resources/net%20instance.jpg" />
 
 
- ## Using ping to test internet connectivity
 
-<img width ="1000" height="500" alt="instance1" src= "" 
+## Testing Connectivity
+
+After connecting to the EC2 instance via SSH, I tested internet connectivity using:
+ping 
+The successful response confirmed that:
+- Routing was correctly configured
+- Security Group rules were functioning
+- The NACL was properly allowing traffic
+- The VPC was successfully connected to the internet
+
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ac1f55ad22eb4be55633ee2cdb04b9ca8264ee22/Resources/network%20last.jpg" />
 
 
 
