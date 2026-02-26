@@ -48,7 +48,7 @@ mysql -u root --password='re:St@rt!9'
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database1.jpg">
 
 
-After successfully connecting, I was ready to query the world database.
+After successfully connected, I was ready to query the world database.
 
 
 ## Task 2: Querying the world Database
