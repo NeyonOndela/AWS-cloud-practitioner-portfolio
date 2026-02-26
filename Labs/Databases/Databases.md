@@ -67,5 +67,5 @@ SELECT Name, Capital, Region, SurfaceArea, Population
 FROM world.country
 WHERE Population >= 50000000 AND Population <= 100000000;
 
-This helped me understand how multiple conditions can be combined using the ' AND ' operator.
+This helped me understand how multiple conditions can be combined using the  (AND) operator.
 
