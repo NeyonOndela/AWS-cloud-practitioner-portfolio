@@ -45,6 +45,9 @@ cd /home/ec2-user/
 Connected to MySQL:
 mysql -u root --password='re:St@rt!9'
 
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database1.jpg">
+
+
 After successfully connecting, I was ready to query the world database.
 
 
@@ -59,6 +62,8 @@ SHOW DATABASES;
 Then I explored the country table:
 SELECT * FROM world.country;
 
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database2.jpg">
+
 
 ## Using the WHERE Clause with AND
 
@@ -69,6 +74,8 @@ WHERE Population >= 50000000 AND Population <= 100000000;
 
 This helped me understand how multiple conditions can be combined using the  *AND* operator.
 
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database4.jpg" />
+
 
 ## Using the BETWEEN Operator
 
@@ -78,6 +85,8 @@ FROM world.country
 WHERE Population BETWEEN 50000000 AND 100000000;
 
 I learned that  *BETWEEN* is inclusive and makes range queries cleaner and easier to read.
+
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database5.jpg ">
 
 
 
@@ -91,6 +100,9 @@ WHERE Region LIKE "%Europe%";
 
 The % symbol allowed me to match any characters before or after the word "Europe".
 
+
+
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f539701a1b8ac42d21217a8286337145180e4c83/Resources/database6.jpg" />
 
 ## Using Column Aliases with AS
 
