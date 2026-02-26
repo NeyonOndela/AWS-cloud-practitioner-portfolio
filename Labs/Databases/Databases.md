@@ -4,4 +4,5 @@ This lab focused on performing conditional searches in a relational database usi
 - city
 - country
 - countrylanguage
+  
 The objective was to filter and retrieve specific records from the country table using different SQL operators and functions.
