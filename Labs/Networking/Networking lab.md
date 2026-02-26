@@ -5,6 +5,25 @@
 In this lab, I was tasked with designing and configuring a fully functional and routable network within an Amazon Virtual Private Cloud (VPC). The primary objective was to create and configure the necessary AWS networking components including a VPC, Internet Gateway, Route Table, Security Group, Network Access Control List (NACL), and an EC2 instance so that the instance could successfully communicate with external networks using the ping command.The lab was considered complete once I was able to successfully ping an external IP address from within the EC2 instance.
 
 
+## Objectives
+
+- Create a custom VPC
+
+- Configure an Internet Gateway for internet connectivity
+
+- Set up a Route Table with appropriate routing rules
+
+- Configure a Security Group to allow necessary inbound and outbound traffic
+
+- Modify Network Access Control Lists (NACLs)
+
+- Launch and configure an EC2 instance
+
+- Successfully ping an external address outside the VPC
+
+- Gain familiarity with the AWS Management Console
+
+
 
 ## Scenario
 Your role is a Cloud Support Engineer at Amazon Web Services (AWS). During your shift, a customer from a startup company requests assistance regarding a networking issue within their AWS infrastructure. The email and an attachment of their architecture is below.
