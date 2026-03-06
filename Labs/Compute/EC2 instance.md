@@ -61,15 +61,15 @@ I tested termination protection by attempting to delete the instance while the p
 
 This lab provided me with practical, end-to-end experience working with EC2. I learned how to:
 
--Deploy and secure a web server using automation
+- Deploy and secure a web server using automation
 
--Configure security groups to manage network traffic efficiently
+- Configure security groups to manage network traffic efficiently
 
--Monitor instance health and performance with CloudWatch
+- Monitor instance health and performance with CloudWatch
 
--Dynamically scale compute and storage resources
+- Dynamically scale compute and storage resources
 
--Apply safeguards such as termination protection to prevent accidental data loss
+- Apply safeguards such as termination protection to prevent accidental data loss
 
 Overall, this exercise enhanced my understanding of cloud infrastructure management and gave me valuable practical insight into creating resilient and scalable applications on AWS.
 
