@@ -56,4 +56,4 @@ Moving forward, I plan to continue expanding my skills by completing more AWS la
 
 ## Cloud Journey
 
-Earning this badge marks another important milestone in my journey toward becoming a skilled cloud engineer. I will continue building my knowledge and practical experience through additional AWS projects and certifications as I advance in cloud computing. 🚀
+Earning this badge marks another important milestone in my journey toward becoming a skilled cloud engineer. I will continue building my knowledge and practical experience through additional AWS projects and certifications as I advance in cloud computing. 
