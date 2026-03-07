@@ -2,7 +2,7 @@
 
 
 
-![completion certificate](
+![completion certificate](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/76d4e6c9086f86d27d55529d5ca70d16b49840b1/Resources/aws%20compute%20solutions.pdf)
 
 ## Introduction
 
