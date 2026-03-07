@@ -1,5 +1,9 @@
 ## Computing Solutions
 
+
+
+![completion certificate](
+
 ## Introduction
 
 In this lab, I explored different features of Amazon EC2 and learned how to manage EC2 instances using the AWS Management Console. The purpose of the lab was to understand EC2 instance types, how to filter instances based on their attributes, connect to an instance, view instance metadata, and manage the instance state.
