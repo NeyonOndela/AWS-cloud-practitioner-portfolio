@@ -10,7 +10,7 @@ The content in this repository reflects foundational and intermediate knowledge 
 - Security principles and database basics  
 - Practical AWS labs and implementation exercises  
 
-This portfolio will continue to expand as I develop more cloud solutions and work on real-world cloud projects.
+This GitHub repository records my learning journey in cloud computing. It includes my experiments, practice work, and hands-on projects as I continue to develop my skills and knowledge in the cloud field.
 
 ---
 
