@@ -19,3 +19,12 @@ The aim of this lab was to be able to:
 - Extract specific amino acid segments from the preproinsulin sequence
 
 - Prepare the dataset for further analysis using Python
+
+
+
+
+## Lab files
+
+
+
+
