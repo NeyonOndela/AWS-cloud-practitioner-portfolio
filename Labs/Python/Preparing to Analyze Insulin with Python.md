@@ -22,7 +22,7 @@ The aim of this lab was to be able to:
 
 
  ## Retrieving the Human Preproinsulin Sequence
- In the first exercise, I retrieved the human preproinsulin sequence from the NCBI database
+ I retrieved the human preproinsulin sequence from the NCBI database
  <img width ="1000" height="500" alt="NCBI website" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/42d01a846fb38cc2d2b696497a7599e2cac6c4d3/Labs/Python/analyze2.jpg"/>
 Steps I followed:
 - I opened the NCBI website.
