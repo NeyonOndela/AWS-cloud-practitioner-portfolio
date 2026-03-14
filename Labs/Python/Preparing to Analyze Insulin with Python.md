@@ -58,7 +58,7 @@ The raw sequence contained characters that were not part of the amino acid seque
 
 Using Python, I removed these characters to produce a continuous amino acid sequence.
 I saved the cleaned sequence in a file called:
-**preproinsulin-seq-clean.txt**
+**preproinsulin-seq-clean.txt*
 
 
 
