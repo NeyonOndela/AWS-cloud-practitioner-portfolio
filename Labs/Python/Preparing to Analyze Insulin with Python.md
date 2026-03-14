@@ -23,6 +23,23 @@ The aim of this lab was to be able to:
 
  ## Retrieving the Human Preproinsulin Sequence
  In the first exercise, I retrieved the human preproinsulin sequence from the NCBI database
+ <img width ="1000" height="500" alt="NCBI website" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/42d01a846fb38cc2d2b696497a7599e2cac6c4d3/Labs/Python/analyze2.jpg"/>
+Steps I followed:
+- I opened the NCBI website.
+-From the search dropdown, I selected Protein.
+- I searched for human insulin.
+- From the search results, I selected insulin [Homo sapiens].
+- At the bottom of the record, I copied the protein sequence starting from ORIGIN and ending with //.
+  
+The sequence looked like this:
+**ORIGIN
+1 malwmrllpl lallalwgpd paaafvnqhl cgshlvealy lvcgergffy tpktrreaed
+61 lqvgqvelgg gpgagslqpl alegslqkrg iveqcctsic slyqlenycn
+//**
+I then created a new file in Cloud9 called:
+## preproinsulin-seq.txt
+I pasted the copied sequence into this file. This file contains the raw biological sequence data exactly as retrieved from NCBI.
+ 
  
 
 ## Cleaning the Sequence
