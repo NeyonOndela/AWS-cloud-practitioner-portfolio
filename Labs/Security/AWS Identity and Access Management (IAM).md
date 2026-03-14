@@ -94,7 +94,7 @@ This hands-on testing clarified how:
 
   
 ## Key Learning Outcomes
-- Through this lab, I gained practical experience in:
+Through this lab, I gained practical experience in:
 - Managing authentication through password policies
 - Implementing authorization using IAM groups and policies
 - Applying the principle of least privilege
