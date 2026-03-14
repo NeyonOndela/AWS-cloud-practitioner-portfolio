@@ -21,7 +21,9 @@ The aim of this lab was to be able to:
 - Prepare the dataset for further analysis using Python
 
 
-
+ ## Retrieving the Human Preproinsulin Sequence
+ In the first exercise, I retrieved the human preproinsulin sequence from the NCBI database
+ 
 
 ## Cleaning the Sequence
 
