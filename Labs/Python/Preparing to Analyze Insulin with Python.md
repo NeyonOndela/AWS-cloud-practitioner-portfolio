@@ -84,7 +84,7 @@ By using Python to perform these extractions, I was able to efficiently separate
 ## Learning Outcome
 
 Through this lab, I gained hands-on experience retrieving biological sequence data and preparing it for computational analysis. I also strengthened my understanding of how Python can be applied in bioinformatics and scientific computing to manipulate and analyze protein sequences efficiently.
-This project is part of my continuous learning journey in cloud computing and programming, where I document hands-on labs and practical exercises as I build my technical skills.
+This lab is part of my continuous learning journey in cloud computing , where I document hands-on labs and practical exercises as I build my technical skills.
 
 
 
