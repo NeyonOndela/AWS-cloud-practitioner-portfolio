@@ -9,7 +9,7 @@ This lab helped me understand how biological data can be structured and prepared
 
 ## Objectives
 
-The aim of this lab was to be able to:
+The aim of this lab was to:
 - Access and use the AWS Cloud9 integrated development environment
 
 - Retrieve biological sequence data from NCBI
