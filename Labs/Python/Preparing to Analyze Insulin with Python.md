@@ -26,7 +26,7 @@ The aim of this lab was to:
  <img width ="1000" height="500" alt="NCBI website" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/42d01a846fb38cc2d2b696497a7599e2cac6c4d3/Labs/Python/analyze2.jpg"/>
 Steps I followed:
 - I opened the NCBI website.
--From the search dropdown, I selected Protein.
+- From the search dropdown, I selected Protein.
 - I searched for human insulin.
 - From the search results, I selected insulin [Homo sapiens].
 - At the bottom of the record, I copied the protein sequence starting from ORIGIN and ending with //.
