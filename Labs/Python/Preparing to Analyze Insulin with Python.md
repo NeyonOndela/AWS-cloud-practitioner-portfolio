@@ -23,7 +23,43 @@ The aim of this lab was to be able to:
 
 
 
-## Lab files
+## Cleaning the Sequence
+
+The raw sequence contained characters that were not part of the amino acid sequence, such as:
+
+- the word ORIGIN
+
+- numbers 1 and 61
+
+- spaces
+
+- line breaks
+
+- the // termination symbol
+
+Using Python, I removed these characters to produce a continuous amino acid sequence.
+I saved the cleaned sequence in a file called:
+**preproinsulin-seq-clean.txt**
+
+
+
+
+## Extracting Insulin Sequence Segments Using Python
+
+To complete this part of the lab, I used **Python** to extract specific amino acid segments from the cleaned preproinsulin sequence. After cleaning the original sequence and saving it in `preproinsulin-seq-clean.txt`, the file contained **110 lowercase characters**, each representing an amino acid.
+
+Using Python string manipulation and slicing, I separated the sequence into different sections based on the amino acid positions required in the lab instructions. Python made this process efficient because it allows easy extraction of specific parts of a sequence using index ranges.
+
+First, I extracted **amino acids 1–24**, which represent the **signal peptide**. I used Python slicing to select the first 24 characters from the cleaned sequence and saved the result in a file named `lsinsulin-seq-clean.txt`. After saving the sequence, I verified that the file contained **24 characters**.
+
+Next, I extracted **amino acids 25–54**, which correspond to the **B-chain of insulin**. Using Python slicing again, I selected the appropriate portion of the sequence and saved it in `binsulin-seq-clean.txt`. I confirmed that this file contained **30 characters**, which matches the expected length for this segment.
+
+After that, I extracted the **C-peptide**, which corresponds to **amino acids 55–89**. This portion connects the A-chain and B-chain during insulin formation but is removed during the final processing of insulin. I used Python to extract this section and saved it in `cinsulin-seq-clean.txt`. I then verified that the file contained **35 characters**.
+
+Finally, I extracted **amino acids 90–110**, which represent the **A-chain of insulin**. I used Python slicing to retrieve this segment and saved it in `ainsulin-seq-clean.txt`. I confirmed that this file contained **21 characters**, which is the correct length for the A-chain.
+
+By using Python to perform these extractions, I was able to efficiently separate the different parts of the preproinsulin sequence and save them into individual files. This approach demonstrates how Python can simplify biological data processing tasks and prepare datasets for further analysis in bioinformatics workflows.
+
 
 
 
