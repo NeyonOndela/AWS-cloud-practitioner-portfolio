@@ -37,8 +37,10 @@ The sequence looked like this:
 61 lqvgqvelgg gpgagslqpl alegslqkrg iveqcctsic slyqlenycn
 //**
 I then created a new file in Cloud9 called:
-## preproinsulin-seq.txt
+*preproinsulin-seq.txt*
 I pasted the copied sequence into this file. This file contains the raw biological sequence data exactly as retrieved from NCBI.
+
+<img width ="1000" height="500" alt="NCBI website" src=""/>
  
  
 
