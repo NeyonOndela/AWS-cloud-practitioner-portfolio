@@ -7,45 +7,38 @@ My goal in completing this course was to understand how cloud technology works, 
 This repository serves as a record of the labs, exercises, and projects I completed throughout my cloud learning journey.
 
 What I Learned
-1. Cloud Computing Fundamentals
+1. ## Cloud Computing Fundamentals
 
 I started by learning the basic concepts of cloud computing. I gained an understanding of:
-
 What cloud computing is and how it differs from traditional on-premises infrastructure
-
 The benefits of cloud computing such as scalability, reliability, and cost efficiency
-
 Different cloud service models including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
-
 The different cloud deployment models such as public cloud, private cloud, and hybrid cloud
-
 These concepts helped me understand why many organizations are moving their infrastructure to the cloud.
 
-2. Core AWS Services
+2. ## Core AWS Services
 
 I learned how to use several key services in AWS that form the foundation of cloud architecture. These include:
 
-Amazon EC2 – launching and managing virtual servers in the cloud
+**Amazon EC2** – launching and managing virtual servers in the cloud
 
-Amazon S3 – storing and managing data in scalable object storage
+**Amazon S3** – storing and managing data in scalable object storage
 
-Amazon VPC – creating isolated networks in the cloud
+**Amazon VPC** – creating isolated networks in the cloud
 
-Amazon RDS – managing relational databases in the cloud
-
+**Amazon RDS** – managing relational databases in the cloud
 Through hands-on labs, I learned how to configure these services and understand how they work together to support cloud applications.
 
-3. Cloud Networking
-
+3. ## Cloud Networking
 I also learned about networking in the cloud and how AWS enables secure communication between resources. Some of the networking concepts I practiced include:
 
-Creating a Virtual Private Cloud (VPC)
+- Creating a Virtual Private Cloud (VPC)
 
-Configuring subnets and route tables
+- Configuring subnets and route tables
 
-Attaching an internet gateway
+- Attaching an internet gateway
 
-Managing traffic using security groups and network access control lists
+- Managing traffic using security groups and network access control lists
 
 These labs helped me understand how to design secure and well-structured cloud networks.
 
