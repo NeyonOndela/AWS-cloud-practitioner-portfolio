@@ -40,10 +40,6 @@ I then created a new file in Cloud9 called:
 *preproinsulin-seq.txt*
 I pasted the copied sequence into this file. This file contains the raw biological sequence data exactly as retrieved from NCBI.
 
-<img width ="1000" height="500" alt="NCBI website" src=""/>
- 
- 
-
 ## Cleaning the Sequence
 
 The raw sequence contained characters that were not part of the amino acid sequence, such as:
@@ -63,7 +59,8 @@ I saved the cleaned sequence in a file called:
 **preproinsulin-seq-clean.txt*
 
 
-
+<img width ="1000" height="500" alt="Database file" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/4c6e12b405ca8bd5aec8a83c9ca1d00979f5d684/Labs/Python/updated%201.jpg"/>
+ 
 
 ## Extracting Insulin Sequence Segments Using Python
 
@@ -80,6 +77,17 @@ After that, I extracted the **C-peptide**, which corresponds to **amino acids 55
 Finally, I extracted **amino acids 90–110**, which represent the **A-chain of insulin**. I used Python slicing to retrieve this segment and saved it in `ainsulin-seq-clean.txt`. I confirmed that this file contained **21 characters**, which is the correct length for the A-chain.
 
 By using Python to perform these extractions, I was able to efficiently separate the different parts of the preproinsulin sequence and save them into individual files. This approach demonstrates how Python can simplify biological data processing tasks and prepare datasets for further analysis in bioinformatics workflows.
+
+<img width ="1000" height="500" alt="Database file" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/4c6e12b405ca8bd5aec8a83c9ca1d00979f5d684/Labs/Python/analyze6.jpg"/>
+<img width ="1000" height="500" alt="Database file" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/4c6e12b405ca8bd5aec8a83c9ca1d00979f5d684/Labs/Python/analyze7.jpg"/>
+
+## Learning Outcome
+
+Through this lab, I gained hands-on experience retrieving biological sequence data and preparing it for computational analysis. I also strengthened my understanding of how Python can be applied in bioinformatics and scientific computing to manipulate and analyze protein sequences efficiently.
+This project is part of my continuous learning journey in cloud computing and programming, where I document hands-on labs and practical exercises as I build my technical skills.
+
+
+
 
 
 
