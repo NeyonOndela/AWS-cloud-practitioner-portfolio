@@ -1,6 +1,6 @@
 <img width ="1000" height="500" alt="Cloud quest" src="aws cloud quest.pdf" />
 
-
+<img width="1000" height="500" alt="badge" src= "AWS Skills Builder & Simulearn Certifications/AWS Cloud Quest: Cloud Practitioner/aws cloud quest/resources/aws-cloud-quest-cloud-practitioner-training-badge.png"/>
 
 
 I successfully completed AWS Cloud Quest: Cloud Practitioner, earning the official badge and certificate. Through this interactive learning experience, I built foundational knowledge of cloud computing concepts and gained practical exposure to core services in Amazon Web Services (AWS) by solving hands-on cloud scenarios.
