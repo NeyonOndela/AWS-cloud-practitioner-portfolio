@@ -1,7 +1,7 @@
 <img width ="1000" height="500" alt= "certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/b31c5be00dcfea098ae10d3407ac16ada227d2fc/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest/resources/aws%20cloud%20quest.jpg" />
 
 
-I successfully completed AWS Cloud Quest: Cloud Practitioner, earning the official badge and certificate. Through this interactive learning experience, I built foundational knowledge of cloud computing concepts and gained practical exposure to core services in Amazon Web Services (AWS) by solving hands-on cloud scenarios.
+I successfully completed ***AWS Cloud Quest: Cloud Practitioner***, earning the official badge and certificate. Through this interactive learning experience, I built foundational knowledge of cloud computing concepts and gained practical exposure to core services in Amazon Web Services (AWS) by solving hands-on cloud scenarios.
 
 During this journey, I developed a solid understanding of how cloud technologies work and how organizations use AWS services to build scalable and secure applications.
 
