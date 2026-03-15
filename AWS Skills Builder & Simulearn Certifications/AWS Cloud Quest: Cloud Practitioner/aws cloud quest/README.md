@@ -1,4 +1,4 @@
-<img width ="1000" height="500" alt="" />
+<img width ="1000" height="500" alt="Cloud quest" SRC="AWS Skills Builder & Simulearn Certifications/AWS Cloud Quest: Cloud Practitioner/aws cloud quest/resources/aws cloud quest.pdf" />
 
 
 
