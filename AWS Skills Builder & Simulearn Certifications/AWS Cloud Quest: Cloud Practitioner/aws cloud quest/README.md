@@ -1,4 +1,4 @@
-<img width ="1000" height="500" alt="cloud certificate" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/d735b097257a92ddb448bdcfa242b8cfcf4478d4/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest/resources/aws%20cloud%20quest.pdf" />
+<img width ="1000" height="500" alt="" />
 
 
 
