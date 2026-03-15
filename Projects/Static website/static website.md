@@ -44,7 +44,7 @@ I developed and hosted a **static website** using **Amazon S3**, which allows th
 
 ---
 
-# AWS Cloud Architecture
+# Architecture
 
 The architecture I designed shows how the café can use AWS services to host its website and support its digital infrastructure.
 
