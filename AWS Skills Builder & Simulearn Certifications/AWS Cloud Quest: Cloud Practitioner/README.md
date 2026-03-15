@@ -1,6 +1,6 @@
 ## AWS Skillbuilder Cloud Quest - Cloud Practitioner SimuLearn Badge
 
-"https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/1cd03fe39f818658942b614d0665d5bece2d2ee2/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest.pdf"
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/1cd03fe39f818658942b614d0665d5bece2d2ee2/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest.pdf"/>
 
 
 
