@@ -1,7 +1,7 @@
 ## AWS Skillbuilder Cloud Quest - Cloud Practitioner SimuLearn Badge
 
 
-<img width ="1000" height="500" alt="instance1" src= " " />
+<img width ="1000" height="500" alt="cloud quest" src= " https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/27d90cb9b6c0e235681146b83555d71a15a1bf38/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest.pdf" />
 
 
 ## Overview
