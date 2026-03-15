@@ -1,8 +1,5 @@
 
-
-AWS Skill Builder certificates will be added to this section as they become available.
-
-## 🏆 AWS Skill Builder Certificates
+##  AWS Skill Builder Certificates
 
 ### 1. AWS SimuLearn: Cloud Computing Essentials
 
