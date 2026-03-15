@@ -1,4 +1,4 @@
-
+"https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/98cc61d50361e3617d5a46f2734ea76061b67f2c/AWS%20Skills%20Builder%20%26%20Simulearn%20Certifications/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner/aws%20cloud%20quest/resources/aws%20cloud%20quest.pdf" />
 
 
 
