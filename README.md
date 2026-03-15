@@ -65,7 +65,7 @@ Key topics included:
 These services help organizations store and manage large amounts of data efficiently.
 
 6. ## Hands-On Labs and Practical Experience
-Throughout the course, I completed several hands-on labs using the **AWS Cloud9 integrated development environment and the AWS Management Console.
+Throughout the course, I completed several hands-on labs using the **AWS Cloud9** integrated development environment and the AWS Management Console.
 
 Some of the practical tasks I completed include:
 
