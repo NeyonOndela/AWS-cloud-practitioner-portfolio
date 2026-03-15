@@ -1,7 +1,7 @@
 ## AWS Skillbuilder Cloud Quest - Cloud Practitioner SimuLearn Badge
 
 
-<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance1.jpg " />
+<img width ="1000" height="500" alt="instance1" src= " " />
 
 
 ## Overview
