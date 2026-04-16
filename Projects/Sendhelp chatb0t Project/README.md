@@ -122,6 +122,6 @@ Examples include:
 
 ## ✅ Conclusion
 
-Through the **SendHelp chatbot**, I demonstrated how Amazon Lex can be used to build interactive and educational AI solutions.
+Through the **SendHelp chatbot**, I demonstrated how Amazon Lex and lambda can be used together to build interactive and educational AI solutions.
 This project showcases my ability to design conversational systems and apply cloud-based AI services to practical, real-world use cases.
 
