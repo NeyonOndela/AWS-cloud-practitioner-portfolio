@@ -82,7 +82,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 * **Amazon Lex** – used to build and manage the chatbot
 * Natural Language Processing (NLP) – to interpret user input
 
-* **Aws Lambda** -used to valid user input,hits API, queries databases
+* **Aws Lambda** -used to validates user input,hits API, queries databases
 
 ---
 
