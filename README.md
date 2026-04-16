@@ -9,7 +9,10 @@ This repository serves as a record of the labs, exercises, and projects I comple
 What I Learned
 1. ## Cloud Computing Fundamentals
 
-I started by learning the basic concepts of cloud computing. I gained an understanding of:
+I started by learning the basic concepts of cloud computing. 
+
+I gained an understanding of :
+
 What cloud computing is and how it differs from traditional on-premises infrastructure
 The benefits of cloud computing such as scalability, reliability, and cost efficiency
 Different cloud service models including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
