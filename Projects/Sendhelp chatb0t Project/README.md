@@ -4,7 +4,7 @@ AWS Lex Chatbot Project
 
 ## 📌 Project Overview
 
-I developed **SendHelp**, an interactive chatbot using Amazon Web Services **Lex**.
+I developed **SendHelp**, an interactive chatbot using Amazon Web Services **Lex** and **Lambda**
 This chatbot simulates a conversational AI assistant that helps users learn about Amazon S3 through both informative responses and an engaging quiz.
 
 Through this project, I demonstrated key concepts of chatbot development such as intents, utterances, and conversational flow using AWS services.
@@ -80,7 +80,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 
 ## 🛠️ AWS Services Used
 
-* **Amazon Lex** – I used it to build and manage the chatbot
+* **Amazon Lex** – used to build and manage the chatbot
 * Natural Language Processing (NLP) – to interpret user input
 
 * **Aws Lambda** -used to valid user input,hits API, queries databases
