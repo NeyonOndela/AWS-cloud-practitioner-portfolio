@@ -27,7 +27,7 @@ Through this project, I demonstrated key concepts of chatbot development such as
 
 I first designed the chatbot with a simple intent to answer questions about Amazon S3.
 
-* **Intent:** S3Info
+* **Intent:** S3 Info
 
 * **Example Utterances:**
 
