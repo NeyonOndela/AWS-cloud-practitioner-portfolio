@@ -1,4 +1,4 @@
-# SendHelp 
+# SendHelp chatbot
 
 AWS Lex Chatbot Project
 
