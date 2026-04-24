@@ -39,7 +39,7 @@ I first designed the chatbot with a simple intent to answer questions about Amaz
 
 ---
 
-### 🔹 Part 2: Interactive Quiz (SendHelp Feature)
+### 🔹 Part 2: Interactive Quiz (S3ndHelp Feature)
 
 I then expanded the chatbot into a quiz-based learning assistant.
 
@@ -108,7 +108,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 
 ## 🎥 Demo & Screenshots
 
-I included screenshots of the chatbot and quiz interaction in the `screenshots` folder.
+I included screenshots of the chatbot and quiz interaction in the `screenshots`[Screenshots](./Labs/Compute/README.md)     folder.
 
 Examples include:
 
