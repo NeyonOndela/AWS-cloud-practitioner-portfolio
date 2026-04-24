@@ -108,7 +108,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 
 ## 🎥 Demo & Screenshots
 
-I included screenshots of the chatbot and quiz interaction in the [Screenshots](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/3ca93ce7878e6f63ef288fcc0e854c933f76b428/Projects/Sendhelp%20chatb0t%20Project/screents/screenshots.md) folder.
+I included screenshots of the chatbot and quiz interaction in the [Screenshots](Projects/S3ndhelp chatb0t Project/screenshots.md) folder.
 
 Examples include:
 
