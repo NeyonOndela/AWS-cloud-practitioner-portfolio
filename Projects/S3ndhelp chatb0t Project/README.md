@@ -108,7 +108,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 
 ## 🎥 Demo & Screenshots
 
-I included screenshots of the chatbot and quiz interaction in the [Screenshots](Projects/S3ndhelp chatb0t Project/screenshots.md) folder.
+I included screenshots of the chatbot and quiz interaction in the [Screenshots](./Projects/S3ndhelp chatb0t Project/screenshots.md) folder.
 
 Examples include:
 
