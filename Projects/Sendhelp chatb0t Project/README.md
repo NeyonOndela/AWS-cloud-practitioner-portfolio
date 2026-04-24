@@ -1,10 +1,10 @@
-# Send Help chatbot
+# S3nd Help chatbot
 
 AWS Lex Chatbot Project
 
 ## 📌 Project Overview
 
-I developed **Send Help**, an interactive chatbot using Amazon Web Services **Lex** and **Lambda**
+I developed **S3ndHelp**, an interactive chatbot using Amazon Web Services **Lex** and **Lambda**
 .This chatbot simulates a conversational AI assistant that helps users learn about Amazon S3 through both informative responses and an engaging quiz.Through this project, I demonstrated key concepts of chatbot development such as intents, utterances, and conversational flow using AWS services.
 
 ---
@@ -121,6 +121,6 @@ Examples include:
 
 ## ✅ Conclusion
 
-Through the **SendHelp chatbot**, I demonstrated how Amazon Lex and lambda can be used together to build interactive and educational AI solutions.
+Through the **S3ndHelp chatbot**, I demonstrated how Amazon Lex and lambda can be used together to build interactive and educational AI solutions.
 This project showcases my ability to design conversational systems and apply cloud-based AI services to practical, real-world use cases.
 
