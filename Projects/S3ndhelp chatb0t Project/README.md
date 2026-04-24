@@ -122,7 +122,7 @@ I used Lambda to:
 
 ## 🎥 Demo & Screenshots
 
-Here are screenshots showing how I created the S3ndHelp chat chatbot [Click here](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/34fe88a6bc0ffd05fab60d0576e0afc633760ae3/Projects/S3ndhelp%20chatb0t%20Project/screenshots.md) 
+Here are screenshots showing how I created the S3ndHelp chatbot [Click here](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/34fe88a6bc0ffd05fab60d0576e0afc633760ae3/Projects/S3ndhelp%20chatb0t%20Project/screenshots.md) 
 
 You can also check out the [demo](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/306fa84f94c90bb91ab43fa8b6a4304c38c9a4d4/Projects/S3ndhelp%20chatb0t%20Project/s3ndhelp-demo.mov) to see how it works in action.
 
