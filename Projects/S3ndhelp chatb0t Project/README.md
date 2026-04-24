@@ -85,7 +85,7 @@ I then expanded the chatbot into a quiz-based learning assistant.
 * **Aws Lambda**
   To enhance my chatbot’s functionality, I integrated AWS Lambda into the S3ndHelp project. This allowed me to move beyond static responses and introduce dynamic, logic-driven interactions.
   
-## Why I Used Lambda
+ **Why I Used Lambda**
 While Amazon Lex can handle basic intents and responses, 
 I used Lambda to:
 
