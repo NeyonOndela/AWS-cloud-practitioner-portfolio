@@ -108,7 +108,9 @@ I then expanded the chatbot into a quiz-based learning assistant.
 
 ## 🎥 Demo & Screenshots
 
-Here are screenshots showing how I created the S3ndHelp chat chatbot [Click here](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/34fe88a6bc0ffd05fab60d0576e0afc633760ae3/Projects/S3ndhelp%20chatb0t%20Project/screenshots.md) folder.
+Here are screenshots showing how I created the S3ndHelp chat chatbot [Click here](https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/34fe88a6bc0ffd05fab60d0576e0afc633760ae3/Projects/S3ndhelp%20chatb0t%20Project/screenshots.md) 
+
+You can also check out the [demo]() to see how it works in action.
 
 Examples include:
 
