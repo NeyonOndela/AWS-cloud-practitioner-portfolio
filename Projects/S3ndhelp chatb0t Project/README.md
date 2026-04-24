@@ -85,8 +85,9 @@ I then expanded the chatbot into a quiz-based learning assistant.
 * **Aws Lambda**
   To enhance my chatbot’s functionality, I integrated AWS Lambda into the S3ndHelp project. This allowed me to move beyond static responses and introduce dynamic, logic-driven interactions.
   
-🔹 Why I Used Lambda
-While Amazon Lex can handle basic intents and responses, I used Lambda to:
+## Why I Used Lambda
+While Amazon Lex can handle basic intents and responses, 
+I used Lambda to:
 
 * Process user answers dynamically
 
@@ -95,44 +96,6 @@ While Amazon Lex can handle basic intents and responses, I used Lambda to:
 * Control the flow of the quiz more intelligently
 
 * Return customized feedback based on user input
-
-
-🔹 How I Implemented It
-I connected a Lambda function to my chatbot as a fulfillment and validation hook.
-1. Input Handling
-When a user answers a quiz question, Lex sends the input (slot values) to Lambda.
-The function receives this data in JSON format, including:
-
-* User’s answer
-
-* Current intent
-
-* Conversation state
-
-2. Answer Validation
-Inside Lambda, I wrote logic to check whether the user’s answer is correct. For example:
-
-If the user selects “A” for “What does S3 stand for?” → correct
-
-Otherwise → incorrect
-
-
-3. Dynamic Response Generation
-Based on the validation, Lambda returns a structured response back to Lex:
-
-
-✅ Correct → “That’s right! Let’s move to the next question.”
-
-
-❌ Incorrect → “Not quite. The correct answer is Simple Storage Service.”
-
-
-4. Controlling Conversation Flow
-Lambda also helps guide the next step by:
-* Moving to the next question
-* Re-prompting the user if needed
-* Ending the quiz when complete
-
 
 
 ---
