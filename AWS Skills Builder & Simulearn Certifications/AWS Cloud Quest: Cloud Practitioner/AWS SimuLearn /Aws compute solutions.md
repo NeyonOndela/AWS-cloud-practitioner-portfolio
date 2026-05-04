@@ -29,5 +29,6 @@ Through this SimuLearn exercise, I demonstrated an understanding of:
 
 ---
 
-<img"https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/b5fef1fcc21c2645838b2d4cfc96160f21af19c0/Resources/aws%20compute%20solution.jpg" />
+<<img width ="800" height="400" alt="aws cloud certificate" src
+="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/b5fef1fcc21c2645838b2d4cfc96160f21af19c0/Resources/aws%20compute%20solution.jpg" />
 
