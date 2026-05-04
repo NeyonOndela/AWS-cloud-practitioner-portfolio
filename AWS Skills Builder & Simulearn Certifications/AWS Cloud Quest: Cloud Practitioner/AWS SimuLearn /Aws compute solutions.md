@@ -24,5 +24,10 @@ Through this SimuLearn exercise, I demonstrated an understanding of:
 * Analyzing workloads to choose the most suitable instance types for performance and cost efficiency
 * The trade-offs between resource allocation, performance, and cost when selecting instances
 
+
+
+
 ---
+
+<img"https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/b5fef1fcc21c2645838b2d4cfc96160f21af19c0/Resources/aws%20compute%20solution.jpg" />
 
