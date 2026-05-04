@@ -13,4 +13,4 @@ Through this SimuLearn exercise, I showcased my understanding of:
 * How cloud computing enables scalability, flexibility, and cost-effectiveness compared to physical infrastructure
 
 
- <img width ="1000" height="500" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/087e6fa22f943ea4c498e419cc9264d8f72fc443/Resources/Cloud%20Computing%20Essentials.pdf" />
+ < img width ="1000" height="500" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/976702545a7c023e6a8e8a661e60c422adbb19c4/Resources/Cloud%20Computing%20Essentials.pdf" />
