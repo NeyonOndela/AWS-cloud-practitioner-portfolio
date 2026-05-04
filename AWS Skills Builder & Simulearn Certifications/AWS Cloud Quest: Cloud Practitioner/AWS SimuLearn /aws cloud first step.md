@@ -3,9 +3,10 @@
 
 In this project, I explored AWS Global Infrastructure and the fundamentals of high availability. I examined the advantages of AWS’s globally distributed architecture, compared Regions and Availability Zones, and implemented a resilient solution by deploying resources across multiple Availability Zones using Amazon EC2.
 
-⚙️ **Services I Worked With**
+**Services I Worked With**
 Amazon Elastic Compute Cloud (EC2) — Used to launch scalable virtual servers across multiple Availability Zones to improve availability and ensure fault tolerance
-🎯 What I Demonstrated
+
+**What I Demonstrated**
 
 **Through this SimuLearn exercise, I demonstrated an understanding of:**
 
