@@ -15,6 +15,6 @@ Amazon Elastic Compute Cloud (EC2) — Used to launch scalable virtual servers a
 * Deploying EC2 instances in a distributed setup to achieve redundancy and fault tolerance
 * How global infrastructure design contributes to overall application resilience
 
-<img width ="800" height="400" alt="aws cloud certificate" src="" />
+<img width ="800" height="400" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/802b76ad26eb99b6641130a5ab7563406c010349/Resources/aws%20cloud%20first%20step.jpg" />
 
 
