@@ -11,3 +11,6 @@ Through this SimuLearn exercise, I showcased my understanding of:
 * The key differences between cloud-based solutions and on-premises deployment models
 * Hosting and delivering static website content using Amazon S3
 * How cloud computing enables scalability, flexibility, and cost-effectiveness compared to physical infrastructure
+
+
+<"https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/087e6fa22f943ea4c498e419cc9264d8f72fc443/Resources/Cloud%20Computing%20Essentials.pdf" />
