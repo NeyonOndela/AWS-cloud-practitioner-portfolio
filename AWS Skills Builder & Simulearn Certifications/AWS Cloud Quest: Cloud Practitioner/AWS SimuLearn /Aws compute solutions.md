@@ -1,8 +1,5 @@
-Here’s a refined paraphrased version of your content:
 
----
-
-## 💻 Computing Solutions
+## Computing Solutions
 
 ### Overview
 
