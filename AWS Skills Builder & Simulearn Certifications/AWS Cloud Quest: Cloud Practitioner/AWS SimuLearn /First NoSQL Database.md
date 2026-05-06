@@ -4,6 +4,7 @@
 In this exercise, I explored the fundamentals of NoSQL database design and implementation using Amazon DynamoDB. I examined its key features and advantages, designed efficient table structures using core DynamoDB components, and built a solution optimized for both performance and cost.
 
 **Services I Worked With**
+
 Amazon DynamoDB — A fully managed NoSQL database service offering flexible schema design, high performance, and automatic scaling for efficient data storage and retrieval
 
 
