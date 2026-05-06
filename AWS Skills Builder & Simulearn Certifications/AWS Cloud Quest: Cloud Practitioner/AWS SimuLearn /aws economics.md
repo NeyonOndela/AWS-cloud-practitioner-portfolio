@@ -1,7 +1,7 @@
 ## Cloud Economics
  **Overview**
 
-In this project, I explored AWS cost management and financial planning concepts. I focused on how to generate accurate pricing estimates, calculate costs for multi-service architectures using the AWS Pricing Calculator, and assess strategies for optimizing expenses across AWS environments.
+In this exercise, I explored AWS cost management and financial planning concepts. I focused on how to generate accurate pricing estimates, calculate costs for multi-service architectures using the AWS Pricing Calculator, and assess strategies for optimizing expenses across AWS environments.
 
 **Services I Worked With**
 * Amazon Elastic Compute Cloud (EC2) — Evaluated as the primary compute service for cost analysis and optimization
