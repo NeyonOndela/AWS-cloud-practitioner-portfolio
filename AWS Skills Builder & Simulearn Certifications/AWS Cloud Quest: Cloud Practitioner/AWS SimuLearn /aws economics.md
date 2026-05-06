@@ -1,0 +1,2 @@
+<img width ="800" height="400" alt="aws cloud certificate" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/44c93b2e0bc066412a292edb610c5391073897a1/Resources/CloudEconomics.png" />
+<img width ="800" height="400" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/e5793a9bfaabc1e87543e9877dba8fc7b452b900/Resources/aws%20economics.jpg" />
