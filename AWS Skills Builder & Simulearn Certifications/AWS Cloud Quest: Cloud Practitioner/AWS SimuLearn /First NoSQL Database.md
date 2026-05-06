@@ -18,4 +18,4 @@ Amazon DynamoDB — A fully managed NoSQL database service offering flexible sch
 * Cost optimization strategies for managing DynamoDB workloads efficiently
 
 
-< img width ="800" height="400" alt="aws cloud certificate" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/925c8ad38f05010ebb1e8ee43a5b30ff14ba15ad/Resources/First%20NoSQL%20Database.jpg" />
+<img width ="800" height="400" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/925c8ad38f05010ebb1e8ee43a5b30ff14ba15ad/Resources/First%20NoSQL%20Database.jpg" />
