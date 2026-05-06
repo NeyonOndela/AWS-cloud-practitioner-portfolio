@@ -1,6 +1,6 @@
-## 🌐 Networking Concepts
+## Networking Concepts
 
-### 📌 Overview
+### Overview
 
 In this exercise, I explored the fundamentals of AWS networking by examining the key components of Virtual Private Clouds (VPCs). I designed network architectures using subnets and gateways, applied IP addressing and CIDR notation for network planning, and configured routing and security controls to manage traffic flow within the cloud environment.
 
