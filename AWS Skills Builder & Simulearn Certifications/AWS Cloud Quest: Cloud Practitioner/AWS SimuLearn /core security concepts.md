@@ -37,4 +37,4 @@ Through this SimuLearn exercise, I demonstrated an understanding of:
 
 
 
-< img width ="800" height="400" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/18087fcac89f0f7353ebba39fde55ed08ecbe348/Resources/core%20security%20concepts.jpg" />
+<img width ="800" height="400" alt="aws cloud certificate" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/18087fcac89f0f7353ebba39fde55ed08ecbe348/Resources/core%20security%20concepts.jpg" />
