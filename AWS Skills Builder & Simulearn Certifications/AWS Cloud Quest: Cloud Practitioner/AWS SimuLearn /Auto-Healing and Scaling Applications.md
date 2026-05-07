@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this project, I explored application resilience and elasticity by analyzing the auto-healing and scaling capabilities of Auto Scaling groups. I configured scaling boundaries, implemented automated scaling strategies, and designed solutions that respond dynamically to both scheduled events and performance-based demand changes.
+In this exercise, I explored application resilience and elasticity by analyzing the auto-healing and scaling capabilities of Auto Scaling groups. I configured scaling boundaries, implemented automated scaling strategies, and designed solutions that respond dynamically to both scheduled events and performance-based demand changes.
 
 ---
 
